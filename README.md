@@ -27,4 +27,4 @@ Projects follow this format:
 
 | File | Link |
 |---|---|
-| Cheat sheet - Markdown | [Open file]() |
+| Cheat sheet - Markdown | [Open file](markdown-cheat-sheet.md) |
